@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430589204 source:c:\users\eric\desktop\c++\calc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
